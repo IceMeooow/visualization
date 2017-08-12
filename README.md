@@ -1,6 +1,7 @@
 # Visualization
 
 
+
 This file contains seven examples of visualisation:
 * Histograms
 * 2D and 3D scatter plot 
