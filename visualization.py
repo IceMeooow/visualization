@@ -6,6 +6,7 @@ from pandas.plotting import parallel_coordinates
 from pandas.plotting import andrews_curves
 
 
+
 matplotlib.style.use("ggplot")
 
 df = pd.read_csv("Dataset\wheat.data", index_col = 0)
